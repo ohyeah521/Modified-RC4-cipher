@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584862282 source:c:\users\madan\desktop\mmrc4\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
